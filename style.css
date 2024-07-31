@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    overflow-x: hidden;
+    background-image: linear-gradient(to  bottom right, orange,white ,green);
+}
+.container-fluid{
+    background-color:rgb(21, 245, 73);
+    background-image: linear-gradient(orange, white ,green);
+    opacity: 0.5;
+    z-index: index;
+}
+.navbar-brand{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.navbar-toggler-icon{
+    background-color: white;
+    border-radius: 30%;
+}
+.nav-link{
+    color:black;
+}
+.navbar.toggler{
+    border-radius: 30%;
+}
+.offcanvas-title{
+    color: rgb(21, 3, 3);
+}
+.featurette-heading{
+    margin-left: 25px;
+}
+.lead{
+    margin-left: 25px;
+}
+.navbar{
+    background-image: linear-gradient(to right,orange, white ,green);
+}
+.dropdown-menu{
+    background-image: linear-gradient(to bottom right,orange, white ,green);
+}
+.btn{
+    background-color: linear-gradient(to bottom right,orange, white ,green);
+    color: black; 
+    border: 2px solid #04AA6D;
+    box-shadow:black ;
+}
+.btn:hover {
+    background-color: #04AA6D;
+    color: white;
+    border-width: 4px;
+    }
+  
